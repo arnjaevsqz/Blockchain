@@ -54,7 +54,7 @@ Once the contract is deployed, you can interact with it using the functions. cli
 
 ## Authors
 Aaron Vasquez
-aaronjvsqz@gmail.com
+- aaronjvsqz@gmail.com
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
