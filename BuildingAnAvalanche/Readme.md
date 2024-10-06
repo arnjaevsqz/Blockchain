@@ -4,7 +4,7 @@ This project implements a fungible token contract named DegenToken on the Ethere
 
 ## Description
 
-DegenToken offers a novel way for vape enthusiasts to manage their digital sneaker collection. Users can hold and transfer DGN tokens, the native currency of this ecosystem. These tokens are used to purchase virtual vape represented by various sneaker types stored in the contract.
+DegenToken offers a novel way for gaming enthusiasts specifically on Honor of KIngs. Users can hold and transfer DGN tokens, the native currency of this ecosystem. These tokens are used to purchase virtual heroes represented by various hero types stored in the contract.
 
 ## Getting Started
 
