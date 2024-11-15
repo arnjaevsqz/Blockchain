@@ -4,7 +4,12 @@ This Solidity smart contract implements a basic ATM system with deposit, withdra
 
 ## Description
 
-This Solidity smart contract simulates a basic ATM system. It allows the contract owner to deposit, withdraw, and burn funds securely. The contract tracks the balance, emits events for transactions, and includes error handling to prevent invalid operations. The accompanying React frontend provides a user interface for interacting with the contract, allowing users to connect their MetaMask wallets, view their balances, and perform transactions.
+This Solidity smart contract implements a more feature-rich ATM system compared to basic models. It allows the contract owner to securely manage funds on the blockchain through deposits, withdrawals, and a unique "burn" functionality.
+
+- Key Features:
+    - Secure Transactions: The contract leverages the power of blockchain technology to ensure the immutability and transparency of all transactions. Every deposit, withdrawal, and burn is recorded on the blockchain, preventing unauthorized modifications.
+    - Access Control: Only the contract owner, authorized by their connected wallet, can perform transactions. This ensures restricted access and prevents unauthorized use of funds.
+    - Error Handling: The code incorporates robust error handling mechanisms to prevent invalid operations. This includes checks for insufficient balance, non-owner attempts to modify funds, and deposit amounts less than zero.
 
 ## Getting Started
 
